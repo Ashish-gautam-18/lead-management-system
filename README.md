@@ -8,3 +8,6 @@
 
 ### Login page 
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cc8c712-1c98-40cc-a9e0-7365fef191d7" />
+
+### Dashboard
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b7b473a-7c02-4305-927c-f9a79b0a3013" />
