@@ -12,4 +12,7 @@
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b7b473a-7c02-4305-927c-f9a79b0a3013" />
 
 
-## In this project main purpose to connect people
+
+
+
+# The main purpose of this project to connect to the people.
